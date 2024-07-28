@@ -1,9 +1,5 @@
 ## Hi! I´m Jessica Salgado, I work with front-end👋
 
-<div>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=jessicasalgado&show_icons=false&theme=radical_all_commits-true&count_private-true"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasalgado&layout-compact&langs_count-16&theme-radical"/>
- </div> 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,14 +9,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
   
   ##
  
