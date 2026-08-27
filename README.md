@@ -1,31 +1,35 @@
 # Hi, I'm Jessica Silva Salgado
 
-### Physical Therapist | Prospective PhD Applicant in Rehabilitation & Human Movement Science | Data, AI & Technology
+### Physical Therapist | Prospective PhD Applicant in Rehabilitation & Human Movement Science | Neuroengineering, Data & Technology
 
-I am a physical therapist and technology professional based in São Paulo, Brazil, preparing for PhD opportunities in the United States at the intersection of **rehabilitation science, human movement science, and technology**.
+I am a physical therapist and technology professional based in São Paulo, Brazil, preparing for PhD opportunities in the United States at the intersection of **rehabilitation science, human movement science, neuroscience, and technology**.
 
-My background combines Physiotherapy, IT support experience, and a degree in Systems Analysis and Development. I am developing technical and analytical skills to investigate clinically relevant questions and contribute to data-informed, technology-assisted rehabilitation research.
+My background combines Physiotherapy, IT support experience, and a degree in Systems Analysis and Development. In August 2026, I am beginning a postgraduate specialization in Neuroscience, Neuroengineering, and Neurorobotics at Faculdade Unyleya, with expected completion in March 2027.
+
+I am developing technical and analytical skills to investigate clinically relevant questions and contribute to data-informed, technology-assisted rehabilitation research.
 
 ## Academic objective
 
 My long-term goal is to pursue a PhD in the United States focused on rehabilitation and human movement science.
 
-I am particularly interested in research that uses data, computational methods, and emerging technologies to better understand movement, improve rehabilitation outcomes, and support evidence-based clinical practice.
+I am particularly interested in research that uses neuroscience, data, computational methods, and emerging technologies to better understand movement, improve rehabilitation outcomes, and support evidence-based clinical practice.
+
+## Education and current training
+
+- **Postgraduate Specialization in Neuroscience, Neuroengineering, and Neurorobotics** — Faculdade Unyleya  
+  August 2026 – Expected March 2027
+- **Artificial Intelligence Fundamentals** — DIO
+- **Python for Data Analysis and Automation** — Accenture & DIO
+- Independent study in research methods, rehabilitation technology, and human movement science
 
 ## Current preparation
 
 - Studying Python for data analysis and workflow automation
 - Building foundations in artificial intelligence
 - Developing skills for research data collection, processing, visualization, and interpretation
+- Studying neuroscience, neuroengineering, and neurorobotics
 - Exploring technology-assisted neurorehabilitation
-- Strengthening my background in digital health and rehabilitation technology
 - Preparing an interdisciplinary portfolio for PhD applications and research collaborations
-
-## Current training
-
-- **Artificial Intelligence Fundamentals** — DIO
-- **Python for Data Analysis and Automation** — Accenture & DIO
-- Independent study in research methods, rehabilitation technology, and human movement science
 
 ## Featured project
 
@@ -43,6 +47,7 @@ The project reflects my academic direction while demonstrating experience with s
 
 - Rehabilitation science and human movement science
 - Neurorehabilitation and motor learning
+- Neuroscience, neuroengineering, and neurorobotics
 - Pediatric rehabilitation
 - Biomechanics and movement analysis
 - Rehabilitation and assistive technologies
@@ -69,4 +74,4 @@ The project reflects my academic direction while demonstrating experience with s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jessica_Salgado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-silva-salgado-a075b2a5/)
 [![PhysioToPhD](https://img.shields.io/badge/PhysioToPhD-Live_Project-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://physiotophd.vercel.app)
 
-Open to connections with researchers, laboratories, and interdisciplinary teams working in rehabilitation science, human movement, neurorehabilitation, biomechanics, and technology-assisted care.
+Open to connections with researchers, laboratories, and interdisciplinary teams working in rehabilitation science, human movement, neurorehabilitation, neuroengineering, biomechanics, and technology-assisted care.
