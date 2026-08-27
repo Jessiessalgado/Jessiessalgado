@@ -41,7 +41,7 @@ The project reflects my academic direction while demonstrating experience with s
 
 **Stack:** TypeScript · React · TanStack Start · Supabase · Tailwind CSS
 
-[Visit the project](https://physiotophd.vercel.app) · [Explore the source code](https://github.com/Jessiessalgado/physiotophd)
+[Visit the project](https://physiotophd.lovable.app) · [Explore the source code](https://github.com/Jessiessalgado/physiotophd)
 
 ## Research interests
 
@@ -72,6 +72,6 @@ The project reflects my academic direction while demonstrating experience with s
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jessica_Salgado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-silva-salgado-a075b2a5/)
-[![PhysioToPhD](https://img.shields.io/badge/PhysioToPhD-Live_Project-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://physiotophd.vercel.app)
+[![PhysioToPhD](https://img.shields.io/badge/PhysioToPhD-Live_Project-0F766E?style=for-the-badge&logoColor=white)](https://physiotophd.lovable.app)
 
 Open to connections with researchers, laboratories, and interdisciplinary teams working in rehabilitation science, human movement, neurorehabilitation, neuroengineering, biomechanics, and technology-assisted care.
