@@ -1,45 +1,51 @@
-<h1 align="left">About me!</h1>
+# Hi, I'm Jessica Silva Salgado
 
-###
+Physical Therapist and IT Support Analyst working at the intersection of
+healthcare, technology, and human movement.
 
-<p align="left">- Front end developer<br>-Graduated in system analysis and development from uninove<br>- Studying python</p>
+My background combines Physiotherapy with Systems Analysis and Development,
+allowing me to approach rehabilitation challenges from both clinical and
+technical perspectives.
 
-###
+I am particularly interested in neurorehabilitation, rehabilitation technology,
+digital health, assistive technologies, biomechanics, and human-centered
+healthcare innovation.
 
-<h1 align="left">Techs</h1>
+## Current focus
 
-###
+- Building digital solutions for healthcare and rehabilitation
+- Exploring technology-assisted neurorehabilitation
+- Developing my skills in TypeScript, React, Supabase, and Python
+- Translating clinical needs into practical and accessible technology
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+## Featured projects
 
-###
+### PhysioToPhD
 
-<h1 align="left">Stats</h1>
+A digital platform connecting physiotherapy, rehabilitation technology,
+neuroscience, and evidence-based practice.
 
-###
+**Technologies:** TypeScript, React, TanStack Start, Supabase and Tailwind CSS
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jessiessalgado&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jessiessalgado&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jessiessalgado&radius=16&theme=vue&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
+[View repository](https://github.com/Jessiessalgado/physiotophd) ·
+[Visit project](https://physiotophd.vercel.app)
 
-###
- 
-<div> 
-  <a href="https://instagram.com/jeeh_ssalgado" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
-  <a href="https://www.linkedin.com/in/jessica-silva-salgado-a075b2a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+### DIO Projects and Challenges
+
+A structured collection of front-end projects completed during DIO bootcamps.
+
+[View repository](https://github.com/Jessiessalgado/dio-projetos-e-desafios)
+
+## Areas of interest
+
+- Neurorehabilitation
+- Rehabilitation technology
+- Digital health
+- Pediatric rehabilitation
+- Biomechanics and human movement
+- Assistive and wearable technologies
+- Healthcare software
+
+## Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/jessica-silva-salgado-a075b2a5/)
