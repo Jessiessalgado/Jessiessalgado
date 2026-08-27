@@ -37,9 +37,9 @@ I am particularly interested in research that uses neuroscience, data, computati
 
 An interdisciplinary platform connecting physiotherapy, rehabilitation technology, neuroscience, human movement, and evidence-based practice.
 
-The project reflects my academic direction while demonstrating experience with software development, structured information, data systems, and secure digital platforms.
+The project reflects my academic direction and my experience translating a research-focused idea into an AI-assisted digital product.
 
-**Stack:** TypeScript · React · TanStack Start · Supabase · Tailwind CSS
+**Project implementation (AI-assisted):** TypeScript · React · TanStack Start · Supabase · Tailwind CSS
 
 [Visit the project](https://physiotophd.lovable.app) · [Explore the source code](https://github.com/Jessiessalgado/physiotophd)
 
@@ -57,12 +57,16 @@ The project reflects my academic direction while demonstrating experience with s
 
 ## Technical development
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+**Web foundations**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Currently learning**
+
+![Python](https://img.shields.io/badge/Python-Currently_Learning-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## Additional projects
 
